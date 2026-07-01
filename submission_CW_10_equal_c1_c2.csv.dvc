@@ -1,0 +1,5 @@
+outs:
+- md5: 92c3b693251cc485c189e118dbfb7a27
+  size: 44811
+  hash: md5
+  path: submission_CW_10_equal_c1_c2.csv

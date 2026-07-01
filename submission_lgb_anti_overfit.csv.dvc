@@ -1,0 +1,5 @@
+outs:
+- md5: e4158c401753be85c61e7f5b52ceb2dd
+  size: 44811
+  hash: md5
+  path: submission_lgb_anti_overfit.csv

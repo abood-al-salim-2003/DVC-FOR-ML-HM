@@ -1,0 +1,5 @@
+outs:
+- md5: 668340db4ea1b508f92471fbf616ff99
+  size: 96336
+  hash: md5
+  path: learning_curve_lgb_anti_overfit.png

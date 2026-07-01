@@ -1,0 +1,5 @@
+outs:
+- md5: 0d537162b516cf8c84794ec0c43a41e1
+  size: 54712
+  hash: md5
+  path: cv_folds_comparison_5_vs_10.png
